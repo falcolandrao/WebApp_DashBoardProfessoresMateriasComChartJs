@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApp_DashBoardProfessoresMateriasComChartJs", "WebApp_DashBoardProfessoresMateriasComChartJs.csproj", "{FE45F35A-4773-4A88-94B3-217C74D89186}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE45F35A-4773-4A88-94B3-217C74D89186}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE45F35A-4773-4A88-94B3-217C74D89186}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE45F35A-4773-4A88-94B3-217C74D89186}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE45F35A-4773-4A88-94B3-217C74D89186}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40B92CD1-1A69-409B-8AC6-FB024CD3714E}
+	EndGlobalSection
+EndGlobal
